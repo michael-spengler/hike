@@ -14,6 +14,24 @@ In my opinion the Polygon zkEVM can continue to also inspire the Modulus ZKEVM (
 
 To check your airdrops https://earni.fi might be helpful.
 
+## Attributes
+Fixed Supply of 369.369.369 Coins  
+Amount to be transferred to early retweeters: 3.693.693,69   
+Total Amount to be transferred to some first geocashingCULT wallets: 36.936.936,9   
+
+If some hikes remain in my wallet for more than about 10 days (e.g. because not enough people retweet the announcement) I'll create or enhance a liquidity pool with Hike.  
+
+
+
+## Polygon ZKEVM
+Smart Contract Address: 0x9ca719e1Aa0De610208Ca5fbD4663877a7FE422e (see also https://zkevm.polygonscan.com/address/0x9ca719e1Aa0De610208Ca5fbD4663877a7FE422e)   
+Base Tweet: https://twitter.com/Peer2peerE/status/1692097902619865177
+
+## Modulus Mainnet
+tbd
+
+## zkSync
+tbd
 
 
 
