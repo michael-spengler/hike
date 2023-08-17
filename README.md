@@ -6,7 +6,7 @@ One reason is that it might help a lot of us to qualify for airdrops of those La
 
 Therefore I plan to deploy this coin on some of the listed Layer2 solutions. On Modulus I plan to launch something a bit more sophisticated around the geocashingCULT.  
 
-For a fair and transparent initial distribution I plan to give everyone 1 % of all coins who retweets the corresponding announcement (layer2 specific) - max. about 90 % because about 10 % will be transferred to some first geocashingCULT wallets.   
+For a fair and transparent initial distribution I plan to give everyone 1 % of all coins who retweets [this tweet](https://twitter.com/Peer2peerE/status/1692097902619865177) - max. about 90 % because about 10 % will be transferred to some first geocashingCULT wallets.   
 
 After that I plan to encourage everyone to create or enhance liquidity pools - e.g. on Polygon ZKEVM (see also https://wallet.polygon.technology/zkEVM-Bridge/bridge).  
 In my opinion the Polygon zkEVM can continue to also inspire the Modulus ZKEVM (see also https://www.youtube.com/watch?v=xo5omSTWmOk).   
